@@ -1,0 +1,24 @@
+form{
+    background-color: rgb(255, 60, 135);
+}
+
+body{
+    text-align: center;
+    background-color: rgb(235, 164, 188);
+}
+
+h1{
+    text-align: center;
+    color: rgb(184, 43, 97);
+    border: 6px solid rgb(163, 6, 72);
+    background-color: rgba(252, 23, 119, 0.349);
+}
+
+input{
+    color: rgb(124, 8, 56);
+}
+
+p{
+    color: white;
+    
+}
