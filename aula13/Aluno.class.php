@@ -30,11 +30,11 @@
         public function VerificarSituacao($media){
             if($media>=7){
                 //APROVADO
-                return "APROVADO";
+                return "<b style= color:'green';>APROVADO </b>";
 
             }else{
                 //REPROVADO
-                return "REPROVADO";
+                return "<b style= color:'red';>REPROVADO </b>";
             }
         }
     }
